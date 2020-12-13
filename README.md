@@ -1,4 +1,4 @@
-# MATLAB Source Code for Feature Weighting with Ant Lion optimization
+# MATLAB Source Code for Improved Ant Lion optimization
 
 This code searches the feature weights and optimal parameters of SVM-RBF classifier with Improved Ant Lion optimization. Check IALO.m file file for more details.
 
