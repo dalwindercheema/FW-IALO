@@ -8,4 +8,4 @@ Run Main.m file for demo.
 
 If you use the code, please cite following papers:
 
-Dalwinder Singh and Birmohan Singh, "Effective and efficient classification of gastrointestinal lesions: combining data preprocessing, feature weighting, and improved ant lion optimization", Journal of Ambient Intelligence and Humanized Computing, 2020.
+Dalwinder Singh and Birmohan Singh *[Effective and efficient classification of gastrointestinal lesions: combining data preprocessing, feature weighting, and improved ant lion optimization](https://link.springer.com/article/10.1007/s12652-020-02629-0) Journal of Ambient Intelligence and Humanized Computing, 2020.
